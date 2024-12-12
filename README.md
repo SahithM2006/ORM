@@ -44,6 +44,9 @@ class LoanAdmin(admin.ModelAdmin):
 ![loan 2](https://github.com/user-attachments/assets/eb52a7d6-52e9-4999-ae84-099fe43d7253)
 ![loan 3](https://github.com/user-attachments/assets/0ecfe9f2-62b7-456a-b6e4-387224f42fbc)
 ![Screenshot 2024-12-12 132812](https://github.com/user-attachments/assets/661db09a-24f1-4d17-8174-16906a82640b)
+# ER DIAGRAM
+![Untitled](https://github.com/user-attachments/assets/27d3f6fe-25e9-4beb-bbe2-2447e94f6f6a)
+
 
 
 # RESULT
